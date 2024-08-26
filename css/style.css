@@ -204,7 +204,7 @@ img {
 }
 
 .people {
-    height: 500px;
+    height:40%;
     overflow-x: hidden;
     overflow-y: scroll;
 }
